@@ -1,4 +1,4 @@
-package edu.javacourse.jpa;
+package com.aviva.documentroute.constant.example;
 
 import java.util.List;
 
